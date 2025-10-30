@@ -1,4 +1,5 @@
-# OpenMP Fire Data Processing & Population Analytics
+# DataForge Analytics Engine
+Fire & Population Data Processing and Analytics
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![OpenMP](https://img.shields.io/badge/Parallel-OpenMP-success)
